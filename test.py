@@ -1,6 +1,3 @@
-!wget https://github.com/MrToffel/pyrxbuild/raw/main/pyrx-0.0.4-cp37-cp37m-linux_x86_64.whl
-!pip install pyrx-0.0.4-cp37-cp37m-linux_x86_64.whl
-!pip install requests
 
 
 
