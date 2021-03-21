@@ -1,6 +1,3 @@
-
-
-
 import socket
 import select
 import binascii
