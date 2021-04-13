@@ -1,6 +1,3 @@
-!wget https://github.com/MrToffel/pyrxbuild/raw/main/pyrx-0.0.4-cp39-cp39m-linux_x86_64.whl
-!pip install pyrx-0.0.4-cp39-cp39m-linux_x86_64.whl
-#improved version of https://github.com/jtgrassie/monero-powpy
 
 import socket
 import binascii
